@@ -1,5 +1,5 @@
 
-import random
+import random 
 
 secret = random.randint(1, 10)
 
