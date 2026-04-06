@@ -1,5 +1,5 @@
 
-import random 
+import random # Import the random module to generate a random number
 
 secret = random.randint(1, 10)
 
